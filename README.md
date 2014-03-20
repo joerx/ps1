@@ -2,7 +2,7 @@ Git Prompt
 ==========
 
 Just to store the stuff I hacked together to customize my bash prompt. Almost
-none of this is my work, credits go to Shawn O. Pearce <spearce@spearce.org> 
+none of this is my work, credits go to Shawn O. Pearce [spearce@spearce.org] 
 for the .git-prompt script.
 
 Screenshot
