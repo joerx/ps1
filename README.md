@@ -5,6 +5,8 @@ Just to store the stuff I hacked together to customize my bash prompt. Almost
 none of this is my work, most credits go to Shawn O. Pearce [spearce@spearce.org] 
 for the .git-prompt script.
 
+Tested and found to work on Ubuntu, Fedora & OSX
+
 Screenshot
 ----------
 
