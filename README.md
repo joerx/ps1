@@ -16,7 +16,7 @@ Installation
 ------------
 
  - Place .ps1 and .git-prompt inside your home
- - append "source ~/.ps1" to your ~/.bashrc.
+ - append `source ~/.ps1` to your ~/.bashrc or ~/.bash_profile
  - Customize the content of ~/.ps1 to your liking
 
 License
