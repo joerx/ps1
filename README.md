@@ -7,11 +7,6 @@ for the .git-prompt script.
 
 Tested and found to work on Ubuntu, Fedora & OSX
 
-Screenshot
-----------
-
-![ps1](https://dl.dropboxusercontent.com/u/13811771/ps1_20140320.png)
-
 Installation
 ------------
 
